@@ -2,6 +2,10 @@ Para executar o terraform, você deve renomear um dos arquivos main.tf.* para ma
 
 Comandos
 
+Para iniciar um projeto Terraform
+
+```$ terraform init```
+
 Para validar se o código está correto:
 
 ```$ terraform plan```
